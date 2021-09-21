@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nick Doyon
-- 👀 I’m interested in Software development. I enjoy fullstack the most.
-- 🌱 I’m currently learning all different types of languages as I am just out of my bachelors degree. 
-- 💞️ I’m looking to collaborate on any open source projects that can enhance my skills to help me along my career of becoming a software developer.
+- 👀 I am passionate about technology and software engineering.
+- 🌱 I have most of my experience in Java and C++ and currently enrolled into a fullstack bootcamp for web development. 
+- 💞️ I’m looking to collaborate on any open source projects that can enhance my skills to help me along my career of becoming a software engineer.
 - 📫 How to reach me Email: n.doyon184@gmail.com
 
 <!---
